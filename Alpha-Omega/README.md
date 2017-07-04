@@ -1,1 +1,5 @@
-#A simple turn-based strategy game with a grid-drag-and-drop interface.
+#
+
+!A simple turn-based strategy game with a grid-drag-and-drop interface.
+
+----
